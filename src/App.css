@@ -14,7 +14,8 @@ label {
 
 input {
   padding: 5px;
-  width: 400px;
+  min-width: 250px;
+  width: border-content;
   height: 40px;
   border: 1px solid #315c8ad2;
   border-radius: 5px;
