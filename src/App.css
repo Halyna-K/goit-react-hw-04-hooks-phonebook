@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+h1,
+h2 {
+  color: #315c8ad2;
+  align-items: center;
+}
+
+label {
+  font-size: calc(6px + 2vmin);
+}
+
+input {
+  padding: 5px;
+  width: 400px;
+  height: 40px;
+  border: 1px solid #315c8ad2;
+  border-radius: 5px;
+  -webkit-appearance: none;
+}
+.title {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
